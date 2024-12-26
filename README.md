@@ -11,7 +11,7 @@ AGI
 
 Large Models and [Democratizing the build and the use of AGI](https://github.com/chunhui-shi/smart-compute/wiki/chatGPT-(and-beyond)-engineering-and-deployment)
 
-###Online CS Courses' Resource
+### Online CS Courses' Resource
 
 For people to self study core computer science courses, I collected a series of classes with available assignments, notes, lecture videos from CMU, Stanford and MIT in this [wiki page](https://github.com/chunhui-shi/smart-compute/wiki/CS-Courses-Online-for-Self-Study)
 
